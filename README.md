@@ -2,12 +2,12 @@
 
 **All nine original classes | 27 talent trees | 466 talents | October 2026 beta snapshot**
 
-A collection of our class-by-class talent design reviews, converted into one GitHub-friendly Markdown document. The central question: **does a talent change how a character plays, or mostly change the numbers?**
+A field guide to mechanical variety in the talent trees of World of Warcraft Forever. **A talent point can do more than increase a number. It can change what a character is able to do.**
 
-[**PDF edition (23 pages)**](WoW_Forever_Talent_Design_Atlas.pdf)
+[**PDF edition (31 pages)**](WoW_Forever_Talent_Design_Atlas.pdf)
 
 > [!IMPORTANT]
-> This is a **subjective mechanical-interest review**, not a talent power ranking or live-server verification. The descriptions and classifications reproduce our October 2026 discussion and the accompanying PDF. Beta abilities and tooltips may change, and some effects still require in-game confirmation.
+> This is a **subjective mechanical-interest review**, not a talent power ranking or live-server verification. This October 2026 beta snapshot evaluates the kind of gameplay each talent introduces, rather than its power. Talents and tooltips may change, and some effects still require in-game confirmation.
 
 ## Criteria
 
@@ -763,7 +763,7 @@ Both can be strong or useful. These categories describe the *kind* of progressio
 
 ## Illustrative redesign ideas
 
-These are ideas from our conversation, **not final or balance-tested talent tooltips**. They suggest how a numerical talent might gain another interaction, effect, or tactical use.
+These are **illustrative design concepts, not final or balance-tested talent tooltips**. Each proposal explores how a numerical talent could become a new interaction, effect, or tactical option.
 
 ### Warrior
 
