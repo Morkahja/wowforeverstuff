@@ -39,17 +39,17 @@ This expanded edition restores and expands the **commentary and conclusions for 
 
 **🟢 Interesting (mechanical):** Adds a new ability, secondary effect, proc, synergy between abilities, reactive event, meaningful tactical choice, or playstyle change.
 
-**🔴 Primarily numerical (the 'boring' category):** Mainly raises damage, healing, attributes, range or duration, or lowers Rage, Energy, Mana, cooldowns or cast times without adding another effect.
+**🔴 Boring:** Mainly raises damage, healing, attributes, range or duration, or lowers Rage, Energy, Mana, cooldowns or cast times without adding another effect.
 
-These are **not** labels for *strong* and *weak*, *good* and *bad*, or even whether a specific player enjoys the talent. Numerical effects sometimes matter to gameplay: conditional bonuses like Shatter, Lone Wolf's petless playstyle, or a resource proc show why this boundary is not perfectly objective. Borderline cases are explained in the notes below.
+**Boring doesn't mean weak.** Some of these talents are extremely powerful, but don't add much new to the gameplay. The distinction isn't perfectly objective: conditional bonuses like Shatter, Lone Wolf's petless playstyle, and resource procs can make even numerical effects interesting. Borderline cases are explained in the notes below.
 
-**Reading the visuals:** Green measures the share of talents classified as mechanically interesting; red measures talents whose primary effect is numerical. The small color bars are comparative, not balance ratings.
+**Reading the visuals:** Green = Interesting. Red = Boring. The small color bars are comparative, not balance ratings.
 
 ## All nine classes
 
-**466 talents reviewed: 🟢 202 mechanically interesting (43.3%) · 🔴 264 primarily numerical (56.7%).**
+**466 talents reviewed: 🟢 202 Interesting (43.3%) · 🔴 264 Boring (56.7%).**
 
-| Class | Interesting | Primarily numerical | Mechanical share | Visual |
+| Class | Interesting | Boring | Interesting share | Visual |
 | :--- | ---: | ---: | ---: | :--- |
 | [Mage](#mage) | 🟢 27 | 🔴 27 | **50.0%** | 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥 |
 | [Warrior](#warrior) | 🟢 25 | 🔴 27 | **48.1%** | 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥 |
@@ -67,7 +67,7 @@ The class total hides large differences between trees. Warrior is a good example
 
 Sorted by the proportion classified as mechanically interesting. Rankings with similar percentages should be treated as approximate, not a scientific separation.
 
-| Rank | Tree | Interesting | Numerical | Share | Visual |
+| Rank | Tree | Interesting | Boring | Share | Visual |
 | ---: | :--- | ---: | ---: | ---: | :--- |
 | 1 | [Mage Fire](#mage-fire) | 🟢 10 | 🔴 7 | **58.8%** | 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥 |
 | 2 | [Warrior Arms](#warrior-arms) | 🟢 10 | 🔴 7 | **58.8%** | 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥 |
@@ -101,7 +101,7 @@ Sorted by the proportion classified as mechanically interesting. Rankings with s
 
 ### Highest share of mechanically interesting talents
 
-| Tree | Mechanically interesting | Numerical |
+| Tree | Mechanically interesting | Boring |
 | :--- | ---: | ---: |
 | [Mage Fire](#mage-fire) | 🟢 10/17 (**58.8%**) | 🔴 7/17 |
 | [Warrior Arms](#warrior-arms) | 🟢 10/17 (**58.8%**) | 🔴 7/17 |
@@ -119,7 +119,7 @@ Eleven are displayed because **Rogue Assassination**, **Warlock Affliction**, an
 
 ### Lowest share of mechanically interesting talents
 
-| Tree | Mechanically interesting | Numerical |
+| Tree | Mechanically interesting | Boring |
 | :--- | ---: | ---: |
 | [Druid Restoration](#druid-restoration) | 🟢 4/16 (**25.0%**) | 🔴 12/16 |
 | [Shaman Restoration](#shaman-restoration) | 🟢 5/16 (**31.3%**) | 🔴 11/16 |
@@ -138,13 +138,13 @@ Eleven are displayed because **Rogue Assassination**, **Warlock Affliction**, an
 
 ## Warrior
 
-**🟢 25 mechanically interesting / 🔴 27 primarily numerical (48.1% interesting)**  
+**🟢 25 mechanically interesting / 🔴 27 boring (48.1% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
 ### Warrior Arms
 
-**🟢 10 interesting · 🔴 7 numerical · 58.8% mechanically interesting**  
+**🟢 10 interesting · 🔴 7 boring · 58.8% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥
 
@@ -161,13 +161,13 @@ Eleven are displayed because **Rogue Assassination**, **Warlock Affliction**, an
 | Deep Wounds | 🟢 **Interesting** | Critical strikes inflict an additional bleed. |
 | Anger Management | 🟢 **Interesting** | Changes how Rage is generated and retained. |
 | Spearing Strike | 🟢 **Interesting** | Adds a situational attack, though its effect is additional damage. |
-| Improved Charge | 🔴 **Numerical** | Grants more starting Rage without a new interaction. |
-| Improved Overpower | 🔴 **Numerical** | Increases critical strike chance only. |
-| Improved Rend | 🔴 **Numerical** | Increases bleed damage only. |
-| Improved Heroic Strike | 🔴 **Numerical** | Reduces Rage cost only. |
-| Deflection | 🔴 **Numerical** | Flat parry chance increase. |
-| Two-Handed Weapon Specialization | 🔴 **Numerical** | Flat two-handed weapon damage increase. |
-| Impale | 🔴 **Numerical** | Increases critical strike damage without changing play. |
+| Improved Charge | 🔴 **Boring** | Grants more starting Rage without a new interaction. |
+| Improved Overpower | 🔴 **Boring** | Increases critical strike chance only. |
+| Improved Rend | 🔴 **Boring** | Increases bleed damage only. |
+| Improved Heroic Strike | 🔴 **Boring** | Reduces Rage cost only. |
+| Deflection | 🔴 **Boring** | Flat parry chance increase. |
+| Two-Handed Weapon Specialization | 🔴 **Boring** | Flat two-handed weapon damage increase. |
+| Impale | 🔴 **Boring** | Increases critical strike damage without changing play. |
 
 **Analysis and design notes**
 
@@ -180,7 +180,7 @@ The simpler side is still substantial. **Improved Heroic Strike** is only cheape
 
 ### Warrior Fury
 
-**🟢 9 interesting · 🔴 8 numerical · 52.9% mechanically interesting**  
+**🟢 9 interesting · 🔴 8 boring · 52.9% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -196,14 +196,14 @@ The simpler side is still substantial. **Improved Heroic Strike** is only cheape
 | Unbridled Wrath | 🟢 **Interesting** | Melee attacks can generate bonus Rage. |
 | Flurry | 🟢 **Interesting** | Critical strikes trigger faster subsequent attacks. |
 | Lingering Rage | 🟢 **Interesting** | Changes Rage retention between encounters. |
-| Enrage | 🔴 **Numerical** | A conditional proc that results only in more damage. |
-| Dual Wield Specialization | 🔴 **Numerical** | Mainly boosts off-hand damage and Rage generation. |
-| Booming Voice | 🔴 **Numerical** | Improves shout radius and efficiency. |
-| Improved Intercept | 🔴 **Numerical** | Reduces cooldown only. |
-| Improved Execute | 🔴 **Numerical** | Reduces Rage cost only. |
-| Furious Precision | 🔴 **Numerical** | Flat off-hand hit chance increase. |
-| Cruelty | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Raging Blows | 🔴 **Numerical** | Milestone talent reducing Cleave and Whirlwind Rage costs. |
+| Enrage | 🔴 **Boring** | A conditional proc that results only in more damage. |
+| Dual Wield Specialization | 🔴 **Boring** | Mainly boosts off-hand damage and Rage generation. |
+| Booming Voice | 🔴 **Boring** | Improves shout radius and efficiency. |
+| Improved Intercept | 🔴 **Boring** | Reduces cooldown only. |
+| Improved Execute | 🔴 **Boring** | Reduces Rage cost only. |
+| Furious Precision | 🔴 **Boring** | Flat off-hand hit chance increase. |
+| Cruelty | 🔴 **Boring** | Flat critical strike chance increase. |
+| Raging Blows | 🔴 **Boring** | Milestone talent reducing Cleave and Whirlwind Rage costs. |
 
 **Analysis and design notes**
 
@@ -216,7 +216,7 @@ The less interesting talents often raise statistics or lower costs. **Raging Blo
 
 ### Warrior Protection
 
-**🟢 6 interesting · 🔴 12 numerical · 33.3% mechanically interesting**  
+**🟢 6 interesting · 🔴 12 boring · 33.3% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -229,18 +229,18 @@ The less interesting talents often raise statistics or lower costs. **Raging Blo
 | Shield Slam | 🟢 **Interesting** | Adds high-threat shield attack with possible magic dispel. |
 | Concussion Blow | 🟢 **Interesting** | Introduces a targeted stun. |
 | Last Stand | 🟢 **Interesting** | Introduces an emergency survival ability. |
-| Improved Bloodrage | 🔴 **Numerical** | Increases Rage generated, without changing the ability. |
-| Iron Will | 🔴 **Numerical** | Reduces Stun and Fear duration. |
-| Anticipation | 🔴 **Numerical** | Flat Defense skill increase. |
-| Improved Revenge | 🔴 **Numerical** | Increases Revenge damage only. |
-| Improved Thunder Clap | 🔴 **Numerical** | Reduces Rage cost only. |
-| Defiance | 🔴 **Numerical** | Flat threat increase. |
-| Improved Disarm | 🔴 **Numerical** | Reduces cooldown only. |
-| Improved Sunder Armor | 🔴 **Numerical** | Reduces Rage cost only. |
-| Bastion | 🔴 **Numerical** | Adds shield-based damage without a new interaction. |
-| Focused Rage | 🔴 **Numerical** | Generic offensive Rage cost reduction. |
-| Improved Shield Wall | 🔴 **Numerical** | Reduces cooldown, without changing Shield Wall's effect. |
-| Vanguard | 🔴 **Numerical** | Permits Charge in Defensive Stance, but adds little tactical depth. |
+| Improved Bloodrage | 🔴 **Boring** | Increases Rage generated, without changing the ability. |
+| Iron Will | 🔴 **Boring** | Reduces Stun and Fear duration. |
+| Anticipation | 🔴 **Boring** | Flat Defense skill increase. |
+| Improved Revenge | 🔴 **Boring** | Increases Revenge damage only. |
+| Improved Thunder Clap | 🔴 **Boring** | Reduces Rage cost only. |
+| Defiance | 🔴 **Boring** | Flat threat increase. |
+| Improved Disarm | 🔴 **Boring** | Reduces cooldown only. |
+| Improved Sunder Armor | 🔴 **Boring** | Reduces Rage cost only. |
+| Bastion | 🔴 **Boring** | Adds shield-based damage without a new interaction. |
+| Focused Rage | 🔴 **Boring** | Generic offensive Rage cost reduction. |
+| Improved Shield Wall | 🔴 **Boring** | Reduces cooldown, without changing Shield Wall's effect. |
+| Vanguard | 🔴 **Boring** | Permits Charge in Defensive Stance, but adds little tactical depth. |
 
 **Analysis and design notes**
 
@@ -262,13 +262,13 @@ The priority redesign ideas from our discussion were Vanguard, Raging Blows, Imp
 
 ## Rogue
 
-**🟢 25 mechanically interesting / 🔴 28 primarily numerical (47.2% interesting)**  
+**🟢 25 mechanically interesting / 🔴 28 boring (47.2% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
 ### Rogue Assassination
 
-**🟢 8 interesting · 🔴 9 numerical · 47.1% mechanically interesting**  
+**🟢 8 interesting · 🔴 9 boring · 47.1% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -283,15 +283,15 @@ The priority redesign ideas from our discussion were Vanguard, Raging Blows, Imp
 | Venom | 🟢 **Interesting** | New Poison-focused finishing move and maintenance decision. |
 | Improved Expose Armor | 🟢 **Interesting** | Returns Combo Points on a five-point use. |
 | Remorseless Attacks | 🟢 **Interesting** | Defeating an enemy creates a critical-strike opportunity. |
-| Improved Gouge | 🔴 **Numerical** | Increases duration only. |
-| Malice | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Murder | 🔴 **Numerical** | Flat damage against particular creature types. |
-| Improved Slice and Dice | 🔴 **Numerical** | Extends duration only. |
-| Lethality | 🔴 **Numerical** | Increases critical strike damage. |
-| Vile Poisons | 🔴 **Numerical** | Boosts Poison damage and dispel resistance. |
-| Improved Poisons | 🔴 **Numerical** | Improves application chance and charge efficiency. |
-| Vigor | 🔴 **Numerical** | Increases maximum Energy only. |
-| Improved Kidney Shot | 🔴 **Numerical** | Additional damage against stunned targets; no new mechanic. |
+| Improved Gouge | 🔴 **Boring** | Increases duration only. |
+| Malice | 🔴 **Boring** | Flat critical strike chance increase. |
+| Murder | 🔴 **Boring** | Flat damage against particular creature types. |
+| Improved Slice and Dice | 🔴 **Boring** | Extends duration only. |
+| Lethality | 🔴 **Boring** | Increases critical strike damage. |
+| Vile Poisons | 🔴 **Boring** | Boosts Poison damage and dispel resistance. |
+| Improved Poisons | 🔴 **Boring** | Improves application chance and charge efficiency. |
+| Vigor | 🔴 **Boring** | Increases maximum Energy only. |
+| Improved Kidney Shot | 🔴 **Boring** | Additional damage against stunned targets; no new mechanic. |
 
 **Analysis and design notes**
 
@@ -304,7 +304,7 @@ However, quite a few talents remain straightforward numerical bonuses: critical 
 
 ### Rogue Combat
 
-**🟢 7 interesting · 🔴 10 numerical · 41.2% mechanically interesting**  
+**🟢 7 interesting · 🔴 10 boring · 41.2% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -318,16 +318,16 @@ However, quite a few talents remain straightforward numerical bonuses: critical 
 | Puncturing Wounds | 🟢 **Interesting** | Backstab can generate an extra Combo Point. |
 | Hack and Slash | 🟢 **Interesting** | Weapon categories gain different effects, including extra attacks. |
 | Adrenaline Rush | 🟢 **Interesting** | Active Energy-regeneration burst changes combat pacing. |
-| Improved Eviscerate | 🔴 **Numerical** | Flat damage increase. |
-| Improved Sinister Strike | 🔴 **Numerical** | Energy cost reduction only. |
-| Lightning Reflexes | 🔴 **Numerical** | Flat Dodge chance increase. |
-| Deflection | 🔴 **Numerical** | Flat Parry chance increase. |
-| Precision | 🔴 **Numerical** | Flat hit chance increase. |
-| Endurance | 🔴 **Numerical** | Sprint and Evasion cooldown reductions. |
-| Flawless Execution | 🔴 **Numerical** | Milestone talent reducing Eviscerate Energy cost. |
-| Dual Wield Specialization | 🔴 **Numerical** | Flat off-hand damage increase. |
-| Weapon Expertise | 🔴 **Numerical** | Reduces enemy Dodge and Parry against your attacks. |
-| Aggression | 🔴 **Numerical** | Flat damage boosts to several abilities. |
+| Improved Eviscerate | 🔴 **Boring** | Flat damage increase. |
+| Improved Sinister Strike | 🔴 **Boring** | Energy cost reduction only. |
+| Lightning Reflexes | 🔴 **Boring** | Flat Dodge chance increase. |
+| Deflection | 🔴 **Boring** | Flat Parry chance increase. |
+| Precision | 🔴 **Boring** | Flat hit chance increase. |
+| Endurance | 🔴 **Boring** | Sprint and Evasion cooldown reductions. |
+| Flawless Execution | 🔴 **Boring** | Milestone talent reducing Eviscerate Energy cost. |
+| Dual Wield Specialization | 🔴 **Boring** | Flat off-hand damage increase. |
+| Weapon Expertise | 🔴 **Boring** | Reduces enemy Dodge and Parry against your attacks. |
+| Aggression | 🔴 **Boring** | Flat damage boosts to several abilities. |
 
 **Analysis and design notes**
 
@@ -340,7 +340,7 @@ By contrast, **Flawless Execution** is especially underwhelming through this len
 
 ### Rogue Subtlety
 
-**🟢 10 interesting · 🔴 9 numerical · 52.6% mechanically interesting**  
+**🟢 10 interesting · 🔴 9 boring · 52.6% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -357,15 +357,15 @@ By contrast, **Flawless Execution** is especially underwhelming through this len
 | Dirty Deeds | 🟢 **Interesting** | Allows Garrote from the front, changing its use. |
 | Preparation | 🟢 **Interesting** | Resets other cooldowns for tactical combinations. |
 | Thousand Cuts | 🟢 **Interesting** | Rupture ticks reduce the cost of other attacks. |
-| Camouflage | 🔴 **Numerical** | Faster Stealth movement and shorter cooldown. |
-| Master of Deception | 🔴 **Numerical** | Passive Stealth-detection avoidance. |
-| Opportunity | 🔴 **Numerical** | Flat damage increase. |
-| Elusiveness | 🔴 **Numerical** | Reduces Vanish and Blind cooldowns. |
-| Dirty Tricks | 🔴 **Numerical** | Reduces Sap and Blind Energy costs. |
-| Improved Ambush | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Heightened Senses | 🔴 **Numerical** | Improves detection and avoidance statistics. |
-| Serrated Blades | 🔴 **Numerical** | Armor penetration and Rupture damage increases. |
-| Quietus | 🔴 **Numerical** | More damage against targets below 35% health. |
+| Camouflage | 🔴 **Boring** | Faster Stealth movement and shorter cooldown. |
+| Master of Deception | 🔴 **Boring** | Passive Stealth-detection avoidance. |
+| Opportunity | 🔴 **Boring** | Flat damage increase. |
+| Elusiveness | 🔴 **Boring** | Reduces Vanish and Blind cooldowns. |
+| Dirty Tricks | 🔴 **Boring** | Reduces Sap and Blind Energy costs. |
+| Improved Ambush | 🔴 **Boring** | Flat critical strike chance increase. |
+| Heightened Senses | 🔴 **Boring** | Improves detection and avoidance statistics. |
+| Serrated Blades | 🔴 **Boring** | Armor penetration and Rupture damage increases. |
+| Quietus | 🔴 **Boring** | More damage against targets below 35% health. |
 
 **Analysis and design notes**
 
@@ -377,7 +377,7 @@ Subtlety has the **strongest mechanical identity** of the three Rogue trees in t
 
 ### Rogue conclusions
 
-**Rogue has almost the same overall interesting/numerical split as Warrior.** The most successful mechanics come from conditions that make a previously unavailable action possible: Cutthroat allowing Ambush outside Stealth, Riposte reacting to a parry, or Setup turning defensive events into Combo Points. Combat is the most numerical-heavy Rogue tree in this snapshot.
+**Rogue has almost the same overall interesting/boring split as Warrior.** The most successful mechanics come from conditions that make a previously unavailable action possible: Cutthroat allowing Ambush outside Stealth, Riposte reacting to a parry, or Setup turning defensive events into Combo Points. Combat is the most numerical-heavy Rogue tree in this snapshot.
 
 The central opportunity is to enrich talents such as Flawless Execution, Improved Sinister Strike, Improved Eviscerate, Quietus and Vigor without taking away the class's identity as an efficient, precise fighter.
 
@@ -385,13 +385,13 @@ The central opportunity is to enrich talents such as Flawless Execution, Improve
 
 ## Warlock
 
-**🟢 25 mechanically interesting / 🔴 27 primarily numerical (48.1% interesting)**  
+**🟢 25 mechanically interesting / 🔴 27 boring (48.1% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
 ### Warlock Affliction
 
-**🟢 8 interesting · 🔴 9 numerical · 47.1% mechanically interesting**  
+**🟢 8 interesting · 🔴 9 boring · 47.1% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -406,15 +406,15 @@ The central opportunity is to enrich talents such as Flawless Execution, Improve
 | Amplify Curse | 🟢 **Interesting** | Active ability that empowers a selected Curse or Bane. |
 | Curse of Exhaustion | 🟢 **Interesting** | Adds a new movement-control option. |
 | Siphon Life | 🟢 **Interesting** | New DoT that restores health. |
-| Improved Life Tap | 🔴 **Numerical** | Restores more Mana only. |
-| Suppression | 🔴 **Numerical** | Hit chance and threat adjustments. |
-| Malediction | 🔴 **Numerical** | Flat periodic damage increase. |
-| Improved Drains | 🔴 **Numerical** | Boosts damage and healing values. |
-| Improved Bane of Agony | 🔴 **Numerical** | Increases damage only. |
-| Fel Concentration | 🔴 **Numerical** | Reduces casting interruption. |
-| Pandemic | 🔴 **Numerical** | Improves critical damage values. |
-| Malevolence | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Shadow Mastery | 🔴 **Numerical** | Flat Shadow damage and drain increase. |
+| Improved Life Tap | 🔴 **Boring** | Restores more Mana only. |
+| Suppression | 🔴 **Boring** | Hit chance and threat adjustments. |
+| Malediction | 🔴 **Boring** | Flat periodic damage increase. |
+| Improved Drains | 🔴 **Boring** | Boosts damage and healing values. |
+| Improved Bane of Agony | 🔴 **Boring** | Increases damage only. |
+| Fel Concentration | 🔴 **Boring** | Reduces casting interruption. |
+| Pandemic | 🔴 **Boring** | Improves critical damage values. |
+| Malevolence | 🔴 **Boring** | Flat critical strike chance increase. |
+| Shadow Mastery | 🔴 **Boring** | Flat Shadow damage and drain increase. |
 
 **Analysis and design notes**
 
@@ -427,7 +427,7 @@ Affliction contains some excellent spell interactions. **Nightfall** can turn pe
 
 ### Warlock Demonology
 
-**🟢 9 interesting · 🔴 10 numerical · 47.4% mechanically interesting**  
+**🟢 9 interesting · 🔴 10 boring · 47.4% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -443,16 +443,16 @@ Affliction contains some excellent spell interactions. **Nightfall** can turn pe
 | Master Demonologist | 🟢 **Interesting** | Different demons supply distinct benefits. |
 | Fel Domination | 🟢 **Interesting** | Active ability for rapid emergency demon summoning. |
 | Improved Health Funnel | 🟢 **Interesting** | Removes a constraint on when Health Funnel can be used. |
-| Improved Imp | 🔴 **Numerical** | Makes existing Imp abilities stronger. |
-| Demonic Embrace | 🔴 **Numerical** | Flat Stamina increase. |
-| Unholy Power | 🔴 **Numerical** | Flat pet damage increase. |
-| Demonic Aegis | 🔴 **Numerical** | Improves Demon Skin / Demon Armor numbers. |
-| Improved Voidwalker | 🔴 **Numerical** | Stronger existing Voidwalker abilities. |
-| Fel Vitality | 🔴 **Numerical** | More Health and Mana. |
-| Improved Sayaad | 🔴 **Numerical** | Existing pet effect and duration increases. |
-| Master Summoner | 🔴 **Numerical** | Lower summoning time and Mana cost. |
-| Improved Felhunter | 🔴 **Numerical** | Stronger pet effects and shorter Spell Lock cooldown. |
-| Demonic Knowledge | 🔴 **Numerical** | Grants additional spell damage. |
+| Improved Imp | 🔴 **Boring** | Makes existing Imp abilities stronger. |
+| Demonic Embrace | 🔴 **Boring** | Flat Stamina increase. |
+| Unholy Power | 🔴 **Boring** | Flat pet damage increase. |
+| Demonic Aegis | 🔴 **Boring** | Improves Demon Skin / Demon Armor numbers. |
+| Improved Voidwalker | 🔴 **Boring** | Stronger existing Voidwalker abilities. |
+| Fel Vitality | 🔴 **Boring** | More Health and Mana. |
+| Improved Sayaad | 🔴 **Boring** | Existing pet effect and duration increases. |
+| Master Summoner | 🔴 **Boring** | Lower summoning time and Mana cost. |
+| Improved Felhunter | 🔴 **Boring** | Stronger pet effects and shorter Spell Lock cooldown. |
+| Demonic Knowledge | 🔴 **Boring** | Grants additional spell damage. |
 
 **Analysis and design notes**
 
@@ -465,7 +465,7 @@ The weaker group tends to be talents that simply increase demon health, damage, 
 
 ### Warlock Destruction
 
-**🟢 8 interesting · 🔴 8 numerical · 50.0% mechanically interesting**  
+**🟢 8 interesting · 🔴 8 boring · 50.0% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -480,14 +480,14 @@ The weaker group tends to be talents that simply increase demon health, damage, 
 | Shadowburn | 🟢 **Interesting** | New instant attack with Soul Shard recovery. |
 | Improved Shadow Bolt | 🟢 **Interesting** | Critical Shadow Bolts apply a Shadow vulnerability. |
 | Incinerate | 🟢 **Interesting** | New Fire spell empowered by Immolate. |
-| Destructive Reach | 🔴 **Numerical** | Increases spell range only. |
-| Bane | 🔴 **Numerical** | Reduces casting times. |
-| Molten Skin | 🔴 **Numerical** | Flat damage reduction. |
-| Cataclysm | 🔴 **Numerical** | Mana cost reduction. |
-| Ruin | 🔴 **Numerical** | Increases critical strike damage. |
-| Intensity | 🔴 **Numerical** | Improves pushback resistance. |
-| Agonizing Flames | 🔴 **Numerical** | Increases critical chance and damage. |
-| Fire and Brimstone | 🔴 **Numerical** | Only increases Conflagrate critical chance. |
+| Destructive Reach | 🔴 **Boring** | Increases spell range only. |
+| Bane | 🔴 **Boring** | Reduces casting times. |
+| Molten Skin | 🔴 **Boring** | Flat damage reduction. |
+| Cataclysm | 🔴 **Boring** | Mana cost reduction. |
+| Ruin | 🔴 **Boring** | Increases critical strike damage. |
+| Intensity | 🔴 **Boring** | Improves pushback resistance. |
+| Agonizing Flames | 🔴 **Boring** | Increases critical chance and damage. |
+| Fire and Brimstone | 🔴 **Boring** | Only increases Conflagrate critical chance. |
 
 **Analysis and design notes**
 
@@ -507,13 +507,13 @@ One nuance is important: **Mana efficiency is genuinely relevant to Warlocks**. 
 
 ## Mage
 
-**🟢 27 mechanically interesting / 🔴 27 primarily numerical (50.0% interesting)**  
+**🟢 27 mechanically interesting / 🔴 27 boring (50.0% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
 ### Mage Arcane
 
-**🟢 7 interesting · 🔴 11 numerical · 38.9% mechanically interesting**  
+**🟢 7 interesting · 🔴 11 boring · 38.9% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -527,17 +527,17 @@ One nuance is important: **Mana efficiency is genuinely relevant to Warlocks**. 
 | Arcane Concentration | 🟢 **Interesting** | Spell damage can trigger Clearcasting. |
 | Magic Absorption | 🟢 **Interesting** | Fully resisting spells restores Mana. |
 | Arcane Power | 🟢 **Interesting** | Active burst ability with Mana-consumption tradeoff. |
-| Wand Specialization | 🔴 **Numerical** | Flat Wand damage increase. |
-| Arcane Focus | 🔴 **Numerical** | Flat spell hit chance increase. |
-| Improved Channeling | 🔴 **Numerical** | Reduces casting interruption. |
-| Arcane Subtlety | 🔴 **Numerical** | Numerical resistance / threat adjustments. |
-| Arcane Resilience | 🔴 **Numerical** | Converts Intellect into Armor. |
-| Arcane Geometry | 🔴 **Numerical** | Flat casting range increase. |
-| Arcane Impact | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Arcane Shielding | 🔴 **Numerical** | Improves shield efficiency and resistance. |
-| Arcane Meditation | 🔴 **Numerical** | Passive Mana regeneration boost. |
-| Arcane Mind | 🔴 **Numerical** | Increases Intellect and critical damage. |
-| Arcane Instability | 🔴 **Numerical** | Flat damage and critical strike increases. |
+| Wand Specialization | 🔴 **Boring** | Flat Wand damage increase. |
+| Arcane Focus | 🔴 **Boring** | Flat spell hit chance increase. |
+| Improved Channeling | 🔴 **Boring** | Reduces casting interruption. |
+| Arcane Subtlety | 🔴 **Boring** | Numerical resistance / threat adjustments. |
+| Arcane Resilience | 🔴 **Boring** | Converts Intellect into Armor. |
+| Arcane Geometry | 🔴 **Boring** | Flat casting range increase. |
+| Arcane Impact | 🔴 **Boring** | Flat critical strike chance increase. |
+| Arcane Shielding | 🔴 **Boring** | Improves shield efficiency and resistance. |
+| Arcane Meditation | 🔴 **Boring** | Passive Mana regeneration boost. |
+| Arcane Mind | 🔴 **Boring** | Increases Intellect and critical damage. |
+| Arcane Instability | 🔴 **Boring** | Flat damage and critical strike increases. |
 
 **Analysis and design notes**
 
@@ -550,7 +550,7 @@ But its passive talents are heavily dominated by numerical improvements: hit cha
 
 ### Mage Fire
 
-**🟢 10 interesting · 🔴 7 numerical · 58.8% mechanically interesting**  
+**🟢 10 interesting · 🔴 7 boring · 58.8% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥
 
@@ -567,13 +567,13 @@ But its passive talents are heavily dominated by numerical improvements: hit cha
 | Blast Wave | 🟢 **Interesting** | New area attack that slows enemies. |
 | Master of Elements | 🟢 **Interesting** | Critical strikes restore Mana. |
 | Combustion | 🟢 **Interesting** | Timed active effect building critical chance until three crits. |
-| Incineration | 🔴 **Numerical** | Flat critical strike chance boosts. |
-| Improved Fireball | 🔴 **Numerical** | Reduces casting time. |
-| Flame Throwing | 🔴 **Numerical** | Increases spell range. |
-| Burning Soul | 🔴 **Numerical** | Casting protection and threat adjustments. |
-| Improved Flamestrike | 🔴 **Numerical** | Increases critical strike chance. |
-| Critical Mass | 🔴 **Numerical** | Flat Fire critical chance increase. |
-| Fire Power | 🔴 **Numerical** | Flat Fire damage increase. |
+| Incineration | 🔴 **Boring** | Flat critical strike chance boosts. |
+| Improved Fireball | 🔴 **Boring** | Reduces casting time. |
+| Flame Throwing | 🔴 **Boring** | Increases spell range. |
+| Burning Soul | 🔴 **Boring** | Casting protection and threat adjustments. |
+| Improved Flamestrike | 🔴 **Boring** | Increases critical strike chance. |
+| Critical Mass | 🔴 **Boring** | Flat Fire critical chance increase. |
+| Fire Power | 🔴 **Boring** | Flat Fire damage increase. |
 
 **Analysis and design notes**
 
@@ -586,7 +586,7 @@ Fire has a much healthier balance of numerical and mechanical talents. **Heating
 
 ### Mage Frost
 
-**🟢 10 interesting · 🔴 9 numerical · 52.6% mechanically interesting**  
+**🟢 10 interesting · 🔴 9 boring · 52.6% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -603,15 +603,15 @@ Fire has a much healthier balance of numerical and mechanical talents. **Heating
 | Ice Block | 🟢 **Interesting** | Defensive immunity with inability to act. |
 | Winter's Chill | 🟢 **Interesting** | Stacking debuff supporting Frostbolt / Ice Lance. |
 | Ice Barrier | 🟢 **Interesting** | New shield that prevents casting interruption. |
-| Improved Frostbolt | 🔴 **Numerical** | Reduces casting time. |
-| Elemental Precision | 🔴 **Numerical** | Flat spell hit chance increase. |
-| Ice Shards | 🔴 **Numerical** | Increases critical strike damage. |
-| Permafrost | 🔴 **Numerical** | Improves strength and duration of slows. |
-| Improved Frost Nova | 🔴 **Numerical** | Cooldown reduction only. |
-| Piercing Ice | 🔴 **Numerical** | Flat Frost damage increase. |
-| Frost Channeling | 🔴 **Numerical** | Mana cost and threat reduction. |
-| Arctic Reach | 🔴 **Numerical** | Increases range and radius. |
-| Improved Cone of Cold | 🔴 **Numerical** | Increases damage only. |
+| Improved Frostbolt | 🔴 **Boring** | Reduces casting time. |
+| Elemental Precision | 🔴 **Boring** | Flat spell hit chance increase. |
+| Ice Shards | 🔴 **Boring** | Increases critical strike damage. |
+| Permafrost | 🔴 **Boring** | Improves strength and duration of slows. |
+| Improved Frost Nova | 🔴 **Boring** | Cooldown reduction only. |
+| Piercing Ice | 🔴 **Boring** | Flat Frost damage increase. |
+| Frost Channeling | 🔴 **Boring** | Mana cost and threat reduction. |
+| Arctic Reach | 🔴 **Boring** | Increases range and radius. |
+| Improved Cone of Cold | 🔴 **Boring** | Increases damage only. |
 
 **Analysis and design notes**
 
@@ -631,13 +631,13 @@ Frost stands out because **several talents create one interconnected system** ra
 
 ## Hunter
 
-**🟢 22 mechanically interesting / 🔴 28 primarily numerical (44.0% interesting)**  
+**🟢 22 mechanically interesting / 🔴 28 boring (44.0% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
 ### Hunter Beast Mastery
 
-**🟢 7 interesting · 🔴 9 numerical · 43.8% mechanically interesting**  
+**🟢 7 interesting · 🔴 9 boring · 43.8% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -651,15 +651,15 @@ Frost stands out because **several talents create one interconnected system** ra
 | Intimidation | 🟢 **Interesting** | Pet can Stun an enemy. |
 | Frenzy | 🟢 **Interesting** | Pet critical strikes increase attack speed. |
 | Bestial Wrath | 🟢 **Interesting** | Active pet empowerment with control protection. |
-| Endurance Training | 🔴 **Numerical** | Flat pet Health and Armor increase. |
-| Focused Fire | 🔴 **Numerical** | Flat damage while a pet is active. |
-| Pathfinding | 🔴 **Numerical** | Increases existing speed bonuses. |
-| Improved Revive Pet | 🔴 **Numerical** | Faster, cheaper pet resurrection. |
-| Bestial Swiftness | 🔴 **Numerical** | Flat pet speed increase. |
-| Unleashed Fury | 🔴 **Numerical** | Flat pet and hawk damage increase. |
-| Ferocity | 🔴 **Numerical** | Flat pet critical strike chance increase. |
-| Spirit Bond | 🔴 **Numerical** | Passive Health regeneration. |
-| Bestial Discipline | 🔴 **Numerical** | Pet Focus and Hunter Mana regeneration numbers. |
+| Endurance Training | 🔴 **Boring** | Flat pet Health and Armor increase. |
+| Focused Fire | 🔴 **Boring** | Flat damage while a pet is active. |
+| Pathfinding | 🔴 **Boring** | Increases existing speed bonuses. |
+| Improved Revive Pet | 🔴 **Boring** | Faster, cheaper pet resurrection. |
+| Bestial Swiftness | 🔴 **Boring** | Flat pet speed increase. |
+| Unleashed Fury | 🔴 **Boring** | Flat pet and hawk damage increase. |
+| Ferocity | 🔴 **Boring** | Flat pet critical strike chance increase. |
+| Spirit Bond | 🔴 **Boring** | Passive Health regeneration. |
+| Bestial Discipline | 🔴 **Boring** | Pet Focus and Hunter Mana regeneration numbers. |
 
 **Analysis and design notes**
 
@@ -672,7 +672,7 @@ However, many talents simply make the pet stronger without adding anything new t
 
 ### Hunter Marksmanship
 
-**🟢 7 interesting · 🔴 9 numerical · 43.8% mechanically interesting**  
+**🟢 7 interesting · 🔴 9 boring · 43.8% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -686,15 +686,15 @@ However, many talents simply make the pet stronger without adding anything new t
 | Rapid Recuperation | 🟢 **Interesting** | Connects Serpent Sting / Rapid Killing to Mana return. |
 | Scatter Shot | 🟢 **Interesting** | New ranged crowd-control ability. |
 | Sniper Shot | 🟢 **Interesting** | Long-range attack that extends subsequent Shot range. |
-| Hawk Eye | 🔴 **Numerical** | Flat ranged attack range increase. |
-| Lethal Attacks | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Improved Stings | 🔴 **Numerical** | Existing Sting damage / cooldown / duration changes. |
-| Efficiency | 🔴 **Numerical** | Mana cost reduction. |
-| Careful Aim | 🔴 **Numerical** | Converts Intellect into Attack Power. |
-| Improved Arcane Shot | 🔴 **Numerical** | Reduces Arcane Shot cooldown. |
-| Mortal Shots | 🔴 **Numerical** | Increases critical strike damage. |
-| Barrage | 🔴 **Numerical** | Flat damage increase for multiple shots. |
-| Ranged Weapon Specialization | 🔴 **Numerical** | Flat ranged damage increase. |
+| Hawk Eye | 🔴 **Boring** | Flat ranged attack range increase. |
+| Lethal Attacks | 🔴 **Boring** | Flat critical strike chance increase. |
+| Improved Stings | 🔴 **Boring** | Existing Sting damage / cooldown / duration changes. |
+| Efficiency | 🔴 **Boring** | Mana cost reduction. |
+| Careful Aim | 🔴 **Boring** | Converts Intellect into Attack Power. |
+| Improved Arcane Shot | 🔴 **Boring** | Reduces Arcane Shot cooldown. |
+| Mortal Shots | 🔴 **Boring** | Increases critical strike damage. |
+| Barrage | 🔴 **Boring** | Flat damage increase for multiple shots. |
+| Ranged Weapon Specialization | 🔴 **Boring** | Flat ranged damage increase. |
 
 **Analysis and design notes**
 
@@ -707,7 +707,7 @@ Marksmanship illustrates the original criticism particularly well. A large porti
 
 ### Hunter Survival
 
-**🟢 8 interesting · 🔴 10 numerical · 44.4% mechanically interesting**  
+**🟢 8 interesting · 🔴 10 boring · 44.4% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -722,16 +722,16 @@ Marksmanship illustrates the original criticism particularly well. A large porti
 | Expose Prey | 🟢 **Interesting** | Hunter's Mark can enable Mongoose Bite. |
 | Strider Kick | 🟢 **Interesting** | New melee attack with movement-speed effect. |
 | Lacerating Strikes | 🟢 **Interesting** | Mongoose Bite also applies a bleed. |
-| Improved Tracking | 🔴 **Numerical** | Extra damage against tracked creature types. |
-| Deflection | 🔴 **Numerical** | Flat Parry chance increase. |
-| Savage Strikes | 🔴 **Numerical** | Flat melee critical chance increase. |
-| Survivalist | 🔴 **Numerical** | Flat Health increase. |
-| Clever Traps | 🔴 **Numerical** | Longer control and more trap damage. |
-| Surefooted | 🔴 **Numerical** | Hit chance and movement impairment bonuses. |
-| Survival Tactics | 🔴 **Numerical** | Better Trap and Feign Death success rates. |
-| Predator's Edge | 🔴 **Numerical** | Critical and off-hand damage increases. |
-| Survivalist's Discipline | 🔴 **Numerical** | Cooldown reductions only. |
-| Lightning Reflexes | 🔴 **Numerical** | Flat Agility increase. |
+| Improved Tracking | 🔴 **Boring** | Extra damage against tracked creature types. |
+| Deflection | 🔴 **Boring** | Flat Parry chance increase. |
+| Savage Strikes | 🔴 **Boring** | Flat melee critical chance increase. |
+| Survivalist | 🔴 **Boring** | Flat Health increase. |
+| Clever Traps | 🔴 **Boring** | Longer control and more trap damage. |
+| Surefooted | 🔴 **Boring** | Hit chance and movement impairment bonuses. |
+| Survival Tactics | 🔴 **Boring** | Better Trap and Feign Death success rates. |
+| Predator's Edge | 🔴 **Boring** | Critical and off-hand damage increases. |
+| Survivalist's Discipline | 🔴 **Boring** | Cooldown reductions only. |
+| Lightning Reflexes | 🔴 **Boring** | Flat Agility increase. |
 
 **Analysis and design notes**
 
@@ -751,13 +751,13 @@ Survival contains some of the most interesting Hunter talents. **Expose Prey** i
 
 ## Shaman
 
-**🟢 17 mechanically interesting / 🔴 33 primarily numerical (34.0% interesting)**  
+**🟢 17 mechanically interesting / 🔴 33 boring (34.0% interesting)**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 ### Shaman Elemental
 
-**🟢 5 interesting · 🔴 11 numerical · 31.3% mechanically interesting**  
+**🟢 5 interesting · 🔴 11 boring · 31.3% mechanically interesting**  
 
 🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -769,17 +769,17 @@ Survival contains some of the most interesting Hunter talents. **Expose Prey** i
 | Earthbound | 🟢 **Interesting** | Earthbind Totem can immobilize enemies. |
 | Elemental Focus | 🟢 **Interesting** | Offensive spells can trigger a free spell. |
 | Elemental Devastation | 🟢 **Interesting** | Spell critical strikes empower melee critical chance. |
-| Convection | 🔴 **Numerical** | Mana cost reduction. |
-| Concussion | 🔴 **Numerical** | Flat damage increase. |
-| Elemental Warding | 🔴 **Numerical** | Passive damage reduction. |
-| Reverberation | 🔴 **Numerical** | Shock cooldown reduction. |
-| Call of Flame | 🔴 **Numerical** | Fire damage increase. |
-| Elemental Alacrity | 🔴 **Numerical** | Casting time reduction. |
-| Improved Fire Nova | 🔴 **Numerical** | More damage and shorter cooldown. |
-| Eye of the Storm | 🔴 **Numerical** | Spellcasting pushback reduction. |
-| Call of Thunder | 🔴 **Numerical** | Critical strike chance increase. |
-| Elemental Reach | 🔴 **Numerical** | Spell range increase. |
-| Elemental Fury | 🔴 **Numerical** | Critical strike damage increase. |
+| Convection | 🔴 **Boring** | Mana cost reduction. |
+| Concussion | 🔴 **Boring** | Flat damage increase. |
+| Elemental Warding | 🔴 **Boring** | Passive damage reduction. |
+| Reverberation | 🔴 **Boring** | Shock cooldown reduction. |
+| Call of Flame | 🔴 **Boring** | Fire damage increase. |
+| Elemental Alacrity | 🔴 **Boring** | Casting time reduction. |
+| Improved Fire Nova | 🔴 **Boring** | More damage and shorter cooldown. |
+| Eye of the Storm | 🔴 **Boring** | Spellcasting pushback reduction. |
+| Call of Thunder | 🔴 **Boring** | Critical strike chance increase. |
+| Elemental Reach | 🔴 **Boring** | Spell range increase. |
+| Elemental Fury | 🔴 **Boring** | Critical strike damage increase. |
 
 **Analysis and design notes**
 
@@ -792,7 +792,7 @@ Yet **11 of its 16 talents primarily modify numbers**, making Elemental consider
 
 ### Shaman Enhancement
 
-**🟢 7 interesting · 🔴 11 numerical · 38.9% mechanically interesting**  
+**🟢 7 interesting · 🔴 11 boring · 38.9% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -806,17 +806,17 @@ Yet **11 of its 16 talents primarily modify numbers**, making Elemental consider
 | Spirit Weapons | 🟢 **Interesting** | Rockbiter changes threat behavior and combat role. |
 | Flurry | 🟢 **Interesting** | Melee critical strikes trigger haste. |
 | Rage of the Farseer | 🟢 **Interesting** | New active attack-speed window; effect mainly numerical. |
-| Earth's Grasp | 🔴 **Numerical** | Totem health and radius increases. |
-| Thundering Strikes | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Ancestral Knowledge | 🔴 **Numerical** | Flat Intellect increase. |
-| Guardian Totems | 🔴 **Numerical** | Stronger defensive totems and shorter cooldown. |
-| Mental Dexterity | 🔴 **Numerical** | Converts Intellect into Attack Power. |
-| Improved Lightning Shield | 🔴 **Numerical** | Increases damage only. |
-| Elemental Weapons | 🔴 **Numerical** | Boosts weapon enchantment numbers. |
-| Shamanistic Focus | 🔴 **Numerical** | Mana cost reductions. |
-| Anticipation | 🔴 **Numerical** | Flat Dodge chance increase. |
-| Toughness | 🔴 **Numerical** | Flat Stamina increase. |
-| Mental Quickness | 🔴 **Numerical** | Converts Intellect into spell power. |
+| Earth's Grasp | 🔴 **Boring** | Totem health and radius increases. |
+| Thundering Strikes | 🔴 **Boring** | Flat critical strike chance increase. |
+| Ancestral Knowledge | 🔴 **Boring** | Flat Intellect increase. |
+| Guardian Totems | 🔴 **Boring** | Stronger defensive totems and shorter cooldown. |
+| Mental Dexterity | 🔴 **Boring** | Converts Intellect into Attack Power. |
+| Improved Lightning Shield | 🔴 **Boring** | Increases damage only. |
+| Elemental Weapons | 🔴 **Boring** | Boosts weapon enchantment numbers. |
+| Shamanistic Focus | 🔴 **Boring** | Mana cost reductions. |
+| Anticipation | 🔴 **Boring** | Flat Dodge chance increase. |
+| Toughness | 🔴 **Boring** | Flat Stamina increase. |
+| Mental Quickness | 🔴 **Boring** | Converts Intellect into spell power. |
 
 **Analysis and design notes**
 
@@ -829,7 +829,7 @@ Enhancement has some of the strongest individual Shaman talent designs. **Maelst
 
 ### Shaman Restoration
 
-**🟢 5 interesting · 🔴 11 numerical · 31.3% mechanically interesting**  
+**🟢 5 interesting · 🔴 11 boring · 31.3% mechanically interesting**  
 
 🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -841,17 +841,17 @@ Enhancement has some of the strongest individual Shaman talent designs. **Maelst
 | Nature's Swiftness | 🟢 **Interesting** | Makes an eligible Nature spell instant. |
 | Mana Tide Totem | 🟢 **Interesting** | New active group Mana recovery ability. |
 | Ancestral Healing | 🟢 **Interesting** | Critical heals add an Armor buff. |
-| Improved Healing Wave | 🔴 **Numerical** | Reduces casting time. |
-| Totemic Focus | 🔴 **Numerical** | Reduces Totem Mana costs. |
-| Mindfulness | 🔴 **Numerical** | Passive Mana regen while casting. |
-| Natural Grace | 🔴 **Numerical** | Flat threat reduction. |
-| Tidal Focus | 🔴 **Numerical** | Mana cost and hit chance adjustments. |
-| Improved Reincarnation | 🔴 **Numerical** | Cooldown / resource value improvements. |
-| Healing Focus | 🔴 **Numerical** | Reduces casting interruption. |
-| Tidal Mastery | 🔴 **Numerical** | Increases healing crit chance. |
-| Restorative Totems | 🔴 **Numerical** | Improves existing totem numbers. |
-| Healing Way | 🔴 **Numerical** | Flat Healing Wave effectiveness boost. |
-| Purification | 🔴 **Numerical** | Flat healing increase. |
+| Improved Healing Wave | 🔴 **Boring** | Reduces casting time. |
+| Totemic Focus | 🔴 **Boring** | Reduces Totem Mana costs. |
+| Mindfulness | 🔴 **Boring** | Passive Mana regen while casting. |
+| Natural Grace | 🔴 **Boring** | Flat threat reduction. |
+| Tidal Focus | 🔴 **Boring** | Mana cost and hit chance adjustments. |
+| Improved Reincarnation | 🔴 **Boring** | Cooldown / resource value improvements. |
+| Healing Focus | 🔴 **Boring** | Reduces casting interruption. |
+| Tidal Mastery | 🔴 **Boring** | Increases healing crit chance. |
+| Restorative Totems | 🔴 **Boring** | Improves existing totem numbers. |
+| Healing Way | 🔴 **Boring** | Flat Healing Wave effectiveness boost. |
+| Purification | 🔴 **Boring** | Flat healing increase. |
 
 **Analysis and design notes**
 
@@ -863,7 +863,7 @@ On the other hand, **Healing Way** simply improves Healing Wave numerically. Man
 
 ### Shaman conclusions
 
-**Shaman was the most numerical-heavy class in the nine-class comparison**, with 17 of 50 talents in the mechanically interesting category. Elemental and Restoration are tied near the bottom of the tree rankings. Enhancement has more interconnected combat mechanics, especially Maelstrom Weapon and Stormstrike.
+**Shaman had the highest proportion of boring talents in the nine-class comparison**, with 17 of 50 talents in the mechanically interesting category. Elemental and Restoration are tied near the bottom of the tree rankings. Enhancement has more interconnected combat mechanics, especially Maelstrom Weapon and Stormstrike.
 
 The newer or more elaborate examples demonstrate how a talent can expand existing abilities without simply inflating damage: Riptide empowering Chain Heal, Water Shield rewarding events with Mana, and Improved Stormstrike reacting to combat. Some talents, especially Rage of the Farseer, sit on the boundary between a new action and a numerical benefit.
 
@@ -871,13 +871,13 @@ The newer or more elaborate examples demonstrate how a talent can expand existin
 
 ## Priest
 
-**🟢 23 mechanically interesting / 🔴 30 primarily numerical (43.4% interesting)**  
+**🟢 23 mechanically interesting / 🔴 30 boring (43.4% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
 ### Priest Discipline
 
-**🟢 7 interesting · 🔴 11 numerical · 38.9% mechanically interesting**  
+**🟢 7 interesting · 🔴 11 boring · 38.9% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -891,17 +891,17 @@ The newer or more elaborate examples demonstrate how a talent can expand existin
 | Power Infusion | 🟢 **Interesting** | Active tactical buff applied to an ally. |
 | Martyrdom | 🟢 **Interesting** | Receiving a crit triggers pushback protection. |
 | Power in Light | 🟢 **Interesting** | Holy Fire empowers Smite and Penance. |
-| Wand Specialization | 🔴 **Numerical** | Flat Wand damage increase. |
-| Twin Disciplines | 🔴 **Numerical** | Flat damage and healing increase. |
-| Silent Resolve | 🔴 **Numerical** | Threat and crowd-control duration adjustments. |
-| Holy Precision | 🔴 **Numerical** | Flat Holy spell hit chance increase. |
-| Improved Power Word: Shield | 🔴 **Numerical** | Increases absorption only. |
-| Mental Agility | 🔴 **Numerical** | Mana cost reduction. |
-| Meditation | 🔴 **Numerical** | Passive Mana regeneration. |
-| Improved Inner Fire | 🔴 **Numerical** | More Armor and charges. |
-| Mental Strength | 🔴 **Numerical** | Flat Intellect increase. |
-| Soul Warding | 🔴 **Numerical** | Shield cooldown and Mana cost reductions. |
-| Improved Mana Burn | 🔴 **Numerical** | Reduces casting time. |
+| Wand Specialization | 🔴 **Boring** | Flat Wand damage increase. |
+| Twin Disciplines | 🔴 **Boring** | Flat damage and healing increase. |
+| Silent Resolve | 🔴 **Boring** | Threat and crowd-control duration adjustments. |
+| Holy Precision | 🔴 **Boring** | Flat Holy spell hit chance increase. |
+| Improved Power Word: Shield | 🔴 **Boring** | Increases absorption only. |
+| Mental Agility | 🔴 **Boring** | Mana cost reduction. |
+| Meditation | 🔴 **Boring** | Passive Mana regeneration. |
+| Improved Inner Fire | 🔴 **Boring** | More Armor and charges. |
+| Mental Strength | 🔴 **Boring** | Flat Intellect increase. |
+| Soul Warding | 🔴 **Boring** | Shield cooldown and Mana cost reductions. |
+| Improved Mana Burn | 🔴 **Boring** | Reduces casting time. |
 
 **Analysis and design notes**
 
@@ -914,7 +914,7 @@ Yet many other talents simply enhance numbers: absorb amounts, casting efficienc
 
 ### Priest Holy
 
-**🟢 8 interesting · 🔴 9 numerical · 47.1% mechanically interesting**  
+**🟢 8 interesting · 🔴 9 boring · 47.1% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -929,15 +929,15 @@ Yet many other talents simply enhance numbers: absorb amounts, casting efficienc
 | Holy Nova | 🟢 **Interesting** | New area attack and healing ability. |
 | Blessed Recovery | 🟢 **Interesting** | Large incoming hits trigger self-healing. |
 | Inspiration | 🟢 **Interesting** | Critical heals grant target an Armor bonus. |
-| Twilight Focus | 🔴 **Numerical** | Reduces casting interruption. |
-| Improved Renew | 🔴 **Numerical** | Flat healing increase. |
-| Holy Specialization | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Spell Warding | 🔴 **Numerical** | Passive magic damage reduction. |
-| Divine Fury | 🔴 **Numerical** | Casting time reduction. |
-| Holy Reach | 🔴 **Numerical** | Range and radius increases. |
-| Improved Healing | 🔴 **Numerical** | Mana cost reduction. |
-| Spiritual Guidance | 🔴 **Numerical** | Spirit converts into healing and damage. |
-| Spiritual Healing | 🔴 **Numerical** | Flat healing increase. |
+| Twilight Focus | 🔴 **Boring** | Reduces casting interruption. |
+| Improved Renew | 🔴 **Boring** | Flat healing increase. |
+| Holy Specialization | 🔴 **Boring** | Flat critical strike chance increase. |
+| Spell Warding | 🔴 **Boring** | Passive magic damage reduction. |
+| Divine Fury | 🔴 **Boring** | Casting time reduction. |
+| Holy Reach | 🔴 **Boring** | Range and radius increases. |
+| Improved Healing | 🔴 **Boring** | Mana cost reduction. |
+| Spiritual Guidance | 🔴 **Boring** | Spirit converts into healing and damage. |
+| Spiritual Healing | 🔴 **Boring** | Flat healing increase. |
 
 **Analysis and design notes**
 
@@ -950,7 +950,7 @@ Holy contains one particularly good example of what we've been discussing: **Lit
 
 ### Priest Shadow Magic
 
-**🟢 8 interesting · 🔴 10 numerical · 44.4% mechanically interesting**  
+**🟢 8 interesting · 🔴 10 boring · 44.4% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -965,16 +965,16 @@ Holy contains one particularly good example of what we've been discussing: **Lit
 | Silence | 🟢 **Interesting** | Adds targeted caster control. |
 | Spirit Tap | 🟢 **Interesting** | Killing enemies triggers stronger regeneration. |
 | Shadowform | 🟢 **Interesting** | New combat form with healing restrictions. |
-| Shadow Focus | 🔴 **Numerical** | Flat spell hit increase. |
-| Shadow Affinity | 🔴 **Numerical** | Threat reduction. |
-| Improved Shadow Word: Pain | 🔴 **Numerical** | Extends duration only. |
-| Shadow Reach | 🔴 **Numerical** | Increases spell range. |
-| Improved Mind Blast | 🔴 **Numerical** | Cooldown reduction only. |
-| Improved Psychic Scream | 🔴 **Numerical** | Cooldown reduction only. |
-| Improved Fade | 🔴 **Numerical** | Cooldown reduction only. |
-| Shadow Weaving | 🔴 **Numerical** | Stacking Shadow damage bonuses, little spell-choice change. |
-| Early Demise | 🔴 **Numerical** | More critical chance against weakened enemies. |
-| Darkness | 🔴 **Numerical** | Flat Shadow damage increase. |
+| Shadow Focus | 🔴 **Boring** | Flat spell hit increase. |
+| Shadow Affinity | 🔴 **Boring** | Threat reduction. |
+| Improved Shadow Word: Pain | 🔴 **Boring** | Extends duration only. |
+| Shadow Reach | 🔴 **Boring** | Increases spell range. |
+| Improved Mind Blast | 🔴 **Boring** | Cooldown reduction only. |
+| Improved Psychic Scream | 🔴 **Boring** | Cooldown reduction only. |
+| Improved Fade | 🔴 **Boring** | Cooldown reduction only. |
+| Shadow Weaving | 🔴 **Boring** | Stacking Shadow damage bonuses, little spell-choice change. |
+| Early Demise | 🔴 **Boring** | More critical chance against weakened enemies. |
+| Darkness | 🔴 **Boring** | Flat Shadow damage increase. |
 
 **Analysis and design notes**
 
@@ -988,19 +988,19 @@ But **Improved Mind Blast**, **Improved Psychic Scream** and **Improved Fade** a
 
 **Priest has excellent individual examples but a predominantly numerical overall tree structure.** Holy's Litany of Light, Discipline's Renewed Hope, and Shadow's Devouring Contagion show three different ways of making existing spells interact: spell alternation, healing-effect synergy, and spread-on-kill behavior.
 
-Like other healing classes, Priest has numerous efficiency and throughput talents that may be indispensable. Their inclusion in the numerical category should not be read as a recommendation to remove necessary healing power. The proposal is to explore more **distinctive effects** around that strength.
+Like other healing classes, Priest has numerous efficiency and throughput talents that may be indispensable. Their inclusion in the boring category should not be read as a recommendation to remove necessary healing power. The proposal is to explore more **distinctive effects** around that strength.
 
 [↑ Back to contents](#contents)
 
 ## Druid
 
-**🟢 18 mechanically interesting / 🔴 34 primarily numerical (34.6% interesting)**  
+**🟢 18 mechanically interesting / 🔴 34 boring (34.6% interesting)**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 ### Druid Balance
 
-**🟢 6 interesting · 🔴 10 numerical · 37.5% mechanically interesting**  
+**🟢 6 interesting · 🔴 10 boring · 37.5% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -1013,16 +1013,16 @@ Like other healing classes, Priest has numerous efficiency and throughput talent
 | Nature's Grace | 🟢 **Interesting** | Spell crits trigger faster casting. |
 | Improved Starfire | 🟢 **Interesting** | Starfire can Stun enemies. |
 | Insect Swarm | 🟢 **Interesting** | New DoT with defensive debuff. |
-| Improved Wrath | 🔴 **Numerical** | Cast time and Mana cost reduction. |
-| Genesis | 🔴 **Numerical** | Periodic damage and healing increases. |
-| Moonglow | 🔴 **Numerical** | Mana cost reduction. |
-| Improved Moonfire | 🔴 **Numerical** | Damage and critical chance increases. |
-| Nature's Majesty | 🔴 **Numerical** | Flat critical chance increase. |
-| Nature's Reach | 🔴 **Numerical** | Increases spell range / hit chance. |
-| Improved Entangling Roots | 🔴 **Numerical** | Increases damage and break threshold. |
-| Nature's Splendor | 🔴 **Numerical** | Extends spell durations. |
-| Vengeance | 🔴 **Numerical** | Increases critical strike damage. |
-| Moonfury | 🔴 **Numerical** | Flat Arcane / Nature damage increase. |
+| Improved Wrath | 🔴 **Boring** | Cast time and Mana cost reduction. |
+| Genesis | 🔴 **Boring** | Periodic damage and healing increases. |
+| Moonglow | 🔴 **Boring** | Mana cost reduction. |
+| Improved Moonfire | 🔴 **Boring** | Damage and critical chance increases. |
+| Nature's Majesty | 🔴 **Boring** | Flat critical chance increase. |
+| Nature's Reach | 🔴 **Boring** | Increases spell range / hit chance. |
+| Improved Entangling Roots | 🔴 **Boring** | Increases damage and break threshold. |
+| Nature's Splendor | 🔴 **Boring** | Extends spell durations. |
+| Vengeance | 🔴 **Boring** | Increases critical strike damage. |
+| Moonfury | 🔴 **Boring** | Flat Arcane / Nature damage increase. |
 
 **Analysis and design notes**
 
@@ -1035,7 +1035,7 @@ Most of the other talents still improve spells numerically. **Improved Moonfire*
 
 ### Druid Feral Combat
 
-**🟢 8 interesting · 🔴 12 numerical · 40.0% mechanically interesting**  
+**🟢 8 interesting · 🔴 12 boring · 40.0% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -1050,18 +1050,18 @@ Most of the other talents still improve spells numerically. **Improved Moonfire*
 | Natural Reaction | 🟢 **Interesting** | Dodging attacks generates Rage. |
 | Leader of the Pack | 🟢 **Interesting** | Party-wide critical chance aura tied to forms. |
 | Rend and Tear | 🟢 **Interesting** | Rewards attacking bleeding targets, albeit with damage. |
-| Ferocity | 🔴 **Numerical** | Rage and Energy cost reduction. |
-| Heart of the Wild | 🔴 **Numerical** | Flat form-dependent attributes. |
-| Feral Swiftness | 🔴 **Numerical** | Movement speed and Dodge bonuses. |
-| Feral Instinct | 🔴 **Numerical** | Swipe damage and detection improvements. |
-| Brutal Impact | 🔴 **Numerical** | Stun duration and Bash cooldown adjustments. |
-| Thick Hide | 🔴 **Numerical** | Flat Armor / Defense boost. |
-| Shredding Attacks | 🔴 **Numerical** | Energy and Rage cost reductions. |
-| Savage Fury | 🔴 **Numerical** | Flat damage increases. |
-| Sharpened Claws | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Predatory Strikes | 🔴 **Numerical** | Flat Attack Power scaling. |
-| Improved Shifting Power | 🔴 **Numerical** | Cooldown reduction only. |
-| Natural Instinct | 🔴 **Numerical** | Critical damage and healing value increases. |
+| Ferocity | 🔴 **Boring** | Rage and Energy cost reduction. |
+| Heart of the Wild | 🔴 **Boring** | Flat form-dependent attributes. |
+| Feral Swiftness | 🔴 **Boring** | Movement speed and Dodge bonuses. |
+| Feral Instinct | 🔴 **Boring** | Swipe damage and detection improvements. |
+| Brutal Impact | 🔴 **Boring** | Stun duration and Bash cooldown adjustments. |
+| Thick Hide | 🔴 **Boring** | Flat Armor / Defense boost. |
+| Shredding Attacks | 🔴 **Boring** | Energy and Rage cost reductions. |
+| Savage Fury | 🔴 **Boring** | Flat damage increases. |
+| Sharpened Claws | 🔴 **Boring** | Flat critical strike chance increase. |
+| Predatory Strikes | 🔴 **Boring** | Flat Attack Power scaling. |
+| Improved Shifting Power | 🔴 **Boring** | Cooldown reduction only. |
+| Natural Instinct | 🔴 **Boring** | Critical damage and healing value increases. |
 
 **Analysis and design notes**
 
@@ -1074,7 +1074,7 @@ Unfortunately, **Improved Shifting Power** merely reduces that ability's cooldow
 
 ### Druid Restoration
 
-**🟢 4 interesting · 🔴 12 numerical · 25.0% mechanically interesting**  
+**🟢 4 interesting · 🔴 12 boring · 25.0% mechanically interesting**  
 
 🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -1085,18 +1085,18 @@ Unfortunately, **Improved Shifting Power** merely reduces that ability's cooldow
 | Wild Growth | 🟢 **Interesting** | New distinctive group-healing spell. |
 | Nature's Swiftness | 🟢 **Interesting** | Makes an eligible Nature spell instant. |
 | Furor | 🟢 **Interesting** | Changes Rage and Energy upon shapeshifting. |
-| Nature's Focus | 🔴 **Numerical** | Reduces casting interruption. |
-| Naturalist | 🔴 **Numerical** | Cast time reduction and flat damage increase. |
-| Subtlety | 🔴 **Numerical** | Flat threat reduction. |
-| Natural Shapeshifter | 🔴 **Numerical** | Mana cost reduction. |
-| Reflection | 🔴 **Numerical** | More Mana regeneration while casting. |
-| Gift of Nature | 🔴 **Numerical** | Flat healing increase. |
-| Gift of the Earthmother | 🔴 **Numerical** | Reduces global cooldown of healing spells. |
-| Tranquil Spirit | 🔴 **Numerical** | Mana cost reduction. |
-| Improved Rejuvenation | 🔴 **Numerical** | Flat healing increase. |
-| Living Spirit | 🔴 **Numerical** | Flat Spirit increase. |
-| Improved Tranquility | 🔴 **Numerical** | Cooldown and threat reduction. |
-| Improved Regrowth | 🔴 **Numerical** | Flat critical healing chance increase. |
+| Nature's Focus | 🔴 **Boring** | Reduces casting interruption. |
+| Naturalist | 🔴 **Boring** | Cast time reduction and flat damage increase. |
+| Subtlety | 🔴 **Boring** | Flat threat reduction. |
+| Natural Shapeshifter | 🔴 **Boring** | Mana cost reduction. |
+| Reflection | 🔴 **Boring** | More Mana regeneration while casting. |
+| Gift of Nature | 🔴 **Boring** | Flat healing increase. |
+| Gift of the Earthmother | 🔴 **Boring** | Reduces global cooldown of healing spells. |
+| Tranquil Spirit | 🔴 **Boring** | Mana cost reduction. |
+| Improved Rejuvenation | 🔴 **Boring** | Flat healing increase. |
+| Living Spirit | 🔴 **Boring** | Flat Spirit increase. |
+| Improved Tranquility | 🔴 **Boring** | Cooldown and threat reduction. |
+| Improved Regrowth | 🔴 **Boring** | Flat critical healing chance increase. |
 
 **Analysis and design notes**
 
@@ -1116,13 +1116,13 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 
 ## Paladin
 
-**🟢 20 mechanically interesting / 🔴 30 primarily numerical (40.0% interesting)**  
+**🟢 20 mechanically interesting / 🔴 30 boring (40.0% interesting)**  
 
 🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥
 
 ### Paladin Holy
 
-**🟢 6 interesting · 🔴 11 numerical · 35.3% mechanically interesting**  
+**🟢 6 interesting · 🔴 11 boring · 35.3% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -1135,17 +1135,17 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 | Divine Favor | 🟢 **Interesting** | Active guaranteed critical heal / Holy Shock. |
 | Holy Shock | 🟢 **Interesting** | New instant offensive or healing ability. |
 | Illumination | 🟢 **Interesting** | Critical heals restore Mana. |
-| Divine Strength | 🔴 **Numerical** | Flat Strength increase. |
-| Divine Intellect | 🔴 **Numerical** | Flat Intellect increase. |
-| Healing Light | 🔴 **Numerical** | Flat healing increase. |
-| Spiritual Focus | 🔴 **Numerical** | Reduces casting interruption. |
-| Improved Seals | 🔴 **Numerical** | Flat Seal and Judgement damage increases. |
-| Unyielding Faith | 🔴 **Numerical** | Fear and Disorient duration reduction. |
-| Reverence | 🔴 **Numerical** | Mana regeneration while casting. |
-| Purifying Power | 🔴 **Numerical** | Mana costs and cooldowns reduced. |
-| Divine Precision | 🔴 **Numerical** | Flat Holy spell hit chance. |
-| Consecrated Ground | 🔴 **Numerical** | Damage boost against enemies in Consecration. |
-| Holy Power | 🔴 **Numerical** | Flat critical strike chance increase. |
+| Divine Strength | 🔴 **Boring** | Flat Strength increase. |
+| Divine Intellect | 🔴 **Boring** | Flat Intellect increase. |
+| Healing Light | 🔴 **Boring** | Flat healing increase. |
+| Spiritual Focus | 🔴 **Boring** | Reduces casting interruption. |
+| Improved Seals | 🔴 **Boring** | Flat Seal and Judgement damage increases. |
+| Unyielding Faith | 🔴 **Boring** | Fear and Disorient duration reduction. |
+| Reverence | 🔴 **Boring** | Mana regeneration while casting. |
+| Purifying Power | 🔴 **Boring** | Mana costs and cooldowns reduced. |
+| Divine Precision | 🔴 **Boring** | Flat Holy spell hit chance. |
+| Consecrated Ground | 🔴 **Boring** | Damage boost against enemies in Consecration. |
+| Holy Power | 🔴 **Boring** | Flat critical strike chance increase. |
 
 **Analysis and design notes**
 
@@ -1158,7 +1158,7 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 
 ### Paladin Protection
 
-**🟢 8 interesting · 🔴 8 numerical · 50.0% mechanically interesting**  
+**🟢 8 interesting · 🔴 8 boring · 50.0% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥
 
@@ -1173,14 +1173,14 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 | Swift Judgement | 🟢 **Interesting** | Resets Judgement and makes the next use free. |
 | Templar's Bulwark | 🟢 **Interesting** | New defensive absorb-shield cooldown. |
 | Redoubt | 🟢 **Interesting** | Incoming hits can trigger higher block chance and synergies. |
-| Toughness | 🔴 **Numerical** | Flat Armor increase. |
-| Precision | 🔴 **Numerical** | Flat hit chance increase. |
-| Guardian's Favor | 🔴 **Numerical** | Cooldown and duration adjustments. |
-| Anticipation | 🔴 **Numerical** | Flat Defense skill increase. |
-| Improved Righteous Fury | 🔴 **Numerical** | Passive damage reduction. |
-| Sacred Duty | 🔴 **Numerical** | Additional Stamina and shorter cooldowns. |
-| One-Handed Weapon Specialization | 🔴 **Numerical** | Flat weapon damage increase. |
-| Improved Hammer of Justice | 🔴 **Numerical** | Reduces cooldown only. |
+| Toughness | 🔴 **Boring** | Flat Armor increase. |
+| Precision | 🔴 **Boring** | Flat hit chance increase. |
+| Guardian's Favor | 🔴 **Boring** | Cooldown and duration adjustments. |
+| Anticipation | 🔴 **Boring** | Flat Defense skill increase. |
+| Improved Righteous Fury | 🔴 **Boring** | Passive damage reduction. |
+| Sacred Duty | 🔴 **Boring** | Additional Stamina and shorter cooldowns. |
+| One-Handed Weapon Specialization | 🔴 **Boring** | Flat weapon damage increase. |
+| Improved Hammer of Justice | 🔴 **Boring** | Reduces cooldown only. |
 
 **Analysis and design notes**
 
@@ -1193,7 +1193,7 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 
 ### Paladin Retribution
 
-**🟢 6 interesting · 🔴 11 numerical · 35.3% mechanically interesting**  
+**🟢 6 interesting · 🔴 11 boring · 35.3% mechanically interesting**  
 
 🟩🟩🟩🟩🟩🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
@@ -1206,17 +1206,17 @@ The difference between **Swiftmend**, which changes how existing HoTs can be use
 | Repentance | 🟢 **Interesting** | New crowd-control ability. |
 | Eye for an Eye | 🟢 **Interesting** | Incoming crits trigger retaliatory damage. |
 | Vindication | 🟢 **Interesting** | Weakens enemy Attack Power while empowering yours. |
-| Deflection | 🔴 **Numerical** | Flat Parry chance increase. |
-| Benediction | 🔴 **Numerical** | Mana cost reduction. |
-| Improved Judgement | 🔴 **Numerical** | Cooldown reduction only. |
-| Holy Conduit | 🔴 **Numerical** | Mana cost reductions. |
-| Conviction | 🔴 **Numerical** | Flat critical strike chance increase. |
-| Sanctified Judgement | 🔴 **Numerical** | Mana refund; mainly an efficiency effect. |
-| Pursuit of Justice | 🔴 **Numerical** | Flat movement speed increase. |
-| Two-Handed Weapon Specialization | 🔴 **Numerical** | Flat weapon damage increase. |
-| Vengeance | 🔴 **Numerical** | Critical strikes trigger a stacking damage buff only. |
-| Champion of the Light | 🔴 **Numerical** | Converts Intellect into spell damage. |
-| Instrument of Law | 🔴 **Numerical** | Cast-speed and threat numerical adjustments. |
+| Deflection | 🔴 **Boring** | Flat Parry chance increase. |
+| Benediction | 🔴 **Boring** | Mana cost reduction. |
+| Improved Judgement | 🔴 **Boring** | Cooldown reduction only. |
+| Holy Conduit | 🔴 **Boring** | Mana cost reductions. |
+| Conviction | 🔴 **Boring** | Flat critical strike chance increase. |
+| Sanctified Judgement | 🔴 **Boring** | Mana refund; mainly an efficiency effect. |
+| Pursuit of Justice | 🔴 **Boring** | Flat movement speed increase. |
+| Two-Handed Weapon Specialization | 🔴 **Boring** | Flat weapon damage increase. |
+| Vengeance | 🔴 **Boring** | Critical strikes trigger a stacking damage buff only. |
+| Champion of the Light | 🔴 **Boring** | Converts Intellect into spell damage. |
+| Instrument of Law | 🔴 **Boring** | Cast-speed and threat numerical adjustments. |
 
 **Analysis and design notes**
 
