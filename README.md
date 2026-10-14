@@ -7,7 +7,7 @@ A field guide to mechanical variety in World of Warcraft Forever talent design. 
 This expanded edition restores and expands the **commentary and conclusions for every tree and class**, alongside all 466 original talent classifications, redesign ideas, and navigation across the entire review.
 
 > [!NOTE]
-> The [existing PDF edition](WoW_Forever_Talent_Design_Atlas.pdf) is an **earlier condensed version** and has **not yet been updated** to match the expanded Markdown. The Markdown is the definitive version for now.
+> The [complete PDF edition](WoW_Forever_Talent_Design_Atlas.pdf) has now been **updated to match the expanded Markdown**, including all 466 talent ratings, 27 tree analyses, nine class conclusions, comparisons, and redesign ideas. It includes clickable contents and PDF bookmarks.
 
 > [!IMPORTANT]
 > **These are subjective design ratings, not power or balance rankings.** A mechanically simple talent can be one of the strongest in the game. The October 2026 beta descriptions are a historical snapshot and may differ from current game data. Some interactions still require in-game confirmation.
