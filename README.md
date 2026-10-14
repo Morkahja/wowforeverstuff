@@ -10,7 +10,7 @@ This expanded edition restores and expands the **commentary and conclusions for 
 > The [complete PDF edition](WoW_Forever_Talent_Design_Atlas.pdf) here.
 
 > [!IMPORTANT]
-> **These are subjective design ratings, not power or balance rankings.** A mechanically simple talent can be one of the strongest in the game. The October 2026 beta descriptions are a historical snapshot and may differ from current game data. Some interactions still require in-game confirmation.
+> **These are subjective design ratings, not power or balance rankings.** A mechanically simple talent can be one of the strongest in the game..
 
 ## Contents
 
