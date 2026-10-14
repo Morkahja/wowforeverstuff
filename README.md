@@ -855,4 +855,4 @@ These are ideas from our conversation, **not final or balance-tested talent tool
 
 ## Design principle
 
-**Not necessarily more powerful talents. More talents that give players new things to do.** Interactions, decisions, combat reactions, and moments of discovery can make spending a talent point feel like learning something. Numerical improvements still have a place, but shouldn't be the only form of character development.
+**Not necessarily more powerful talents. More talents that give players new things to do.** Interactions, decisions, combat reactions, and moments of discovery can make spending a talent point feel like learning something. Numerical improvements still have a place, but shouldn't be the dominant form of character development.
