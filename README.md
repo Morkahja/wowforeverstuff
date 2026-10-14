@@ -4,6 +4,8 @@
 
 A collection of our class-by-class talent design reviews, converted into one GitHub-friendly Markdown document. The central question: **does a talent change how a character plays, or mostly change the numbers?**
 
+[**PDF edition (23 pages)**](WoW_Forever_Talent_Design_Atlas.pdf)
+
 > [!IMPORTANT]
 > This is a **subjective mechanical-interest review**, not a talent power ranking or live-server verification. The descriptions and classifications reproduce our October 2026 discussion and the accompanying PDF. Beta abilities and tooltips may change, and some effects still require in-game confirmation.
 
